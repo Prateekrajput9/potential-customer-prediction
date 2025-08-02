@@ -3,7 +3,7 @@
 This interactive web app predicts whether a customer is likely to churn using a trained **Artificial Neural Network (ANN)** model. Built using **Streamlit**, the app provides a simple interface for telecom/customer service data-based predictions.
 
 🔗 **Live App**:  
-[👉 Try it here](https://ayush15jindal-customer-churn-predictor-main-hjuy0e.streamlit.app/)
+
 
 ---
 
